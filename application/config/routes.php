@@ -38,7 +38,22 @@
 |
 */
 
-$route['default_controller'] = "login";
+/*********** FRONT HAND ROUTES *******************/
+
+$route['default_controller'] = "Front";
+$route['add'] = "Front/add";
+$route['bid_his'] = "Front/bid_his";
+$route['game_rate'] = "Front/game_rate";
+$route['googlepay'] = "Front/googlepay";
+$route['password'] = "Front/password";
+$route['paytm'] = "Front/paytm";
+$route['phonepe'] = "Front/phonepe";
+$route['profile'] = "Front/profile";
+$route['statemant'] = "Front/statemant";
+$route['transfer'] = "Front/transfer";
+$route['winning'] = "Front/winning";
+$route['wallet'] = "Front/wallet";
+
 $route['404_override'] = 'error';
 
 

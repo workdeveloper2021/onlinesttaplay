@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* INPUT */
+
+.game_contant{
+    margin: 40px 10px !important;
+}
+
+.heading_slide{
+    color: #000 !important;
+}
+.btn_text a {
+    font-size: 12px !important;
+    padding: 8px 0 !important;
+}
+.btn_text a i{
+    font-size: 20px!important;
+    padding-right: 5px !important;
+}
+.heading_slide span {
+    font-weight: 400;
+}
+.heading_slide h4 ,.contect a,.option_pera {
+    font-size: 18px !important;
+}
+.contect a:hover{
+    text-decoration: unset !important;
+}
+.icon_text{
+    font-size: 30px !important;
+}
+.index_img img {
+    height: 600px  !important;
+    width: 100%  !important;
+}
+
+
+/* ADD */
+.add_full ,.transfer_full ,.paytm_full,.game_rate ,.password{
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.add_input {
+    width: 35% !important;
+    margin: 0 auto !important;
+}
+
+.add_input input {
+    border: 2px solid #c71e2ee6 !important;
+    padding: 20px 10px !important;
+}
+
+.add_btn{
+    background-color: #fff !important;
+    color: #000!important;
+}
+
+.input_index {
+    padding: 20px !important;
+    border-radius: 50px 0px 0px 50px !important;
+    background: black !important;
+    border: 2px solid !important;
+    border-right: unset !important;
+}
+span.input-group-text {
+    background: unset;
+    border: 2px solid #fff !important;
+    border-radius: 0px 50px 50px 0px !important;
+    border-left: unset !important;
+    color: #fff;
+}
+
+/* TRANSFER */
+.form_index{
+    background: black !important;
+    border: 2px solid !important;
+    border-radius: 50px !important;
+    padding: 20px !important;
+}
+
+.form-control:focus ,.sub_btn:focus{
+    box-shadow: 0 0 0 0.2rem #dc35457d;
+}
+
+.transfer_btn{
+    background-color: #dc35457d!important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #c71e2ee6!important;
+}
+.custom-control-input:checked~.custom-control-label::before {
+    color: #fff;
+    border-color:#28a745 !important;
+    background-color:#28a745 !important;
+}
+
+.intro_box div:hover {
+    color: #000 !important;
+    background: #fff;
+    font-weight: 600;
+ }
+ .intro_box div {
+    transition: 0.3s;
+    font-weight: 600;
+ }
+ .dropdown-menu {
+    left: -80px !important;
+ }
+ 
+
+
+.form_btn a{
+    font-size: 18px;
+}
+
+.form_btn a:focus{
+    border: unset !important;
+    box-shadow: unset !important;
+}
+
+.form_btn {
+    width: 160px !important;
+    margin: 0 auto !important; 
+    background-color: #7f1721 !important;
+    border-radius: 14px !important;
+}
+.form_btn:focus{
+    border: unset !important;
+    box-shadow: unset !important;
+}
+
+.input_section {
+    width: 50%  !important;
+    margin: 0 auto !important;
+}
+
+/* TRANSFER */
+
+.label_pera ,.number_pera {
+    font-size: 20px !important;
+}
+.dark_section {
+    width: 35%  ;
+}
+.sub_btn {
+    background: #fff !important;
+}
+.number_pera{
+    text-align: end;
+}
+.icon_section input {
+    border-right: unset !important;
+    border-radius: 30px 0px 0px 30px !important;
+}
+
+/* WALLET */
+.profile_point{
+    font-size:20px;
+    border-radius: 12px;
+}
+.wallet_body {
+    width: 52% !important;
+    margin: 0 auto !important;
+}
+

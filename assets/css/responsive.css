@@ -1,0 +1,147 @@
+@media screen and (max-width: 992px) {
+    .dark_section {
+        width: 42% !important;
+    }
+    .sub_btn {
+        width: 130px !important;
+    }
+    .index_img img {
+        height: 500px !important;
+        width: 100% !important;
+    }
+    .add_input {
+        width: 40% !important;
+        margin: 0 auto !important;
+    }
+    
+    .wallet_body {
+        width: 70% !important;
+        margin: 0 auto !important;
+    }
+}
+
+  @media screen and (max-width: 768px) {
+
+    .input_section {
+        width: 100%  !important;
+        margin: 0px auto !important;
+    }
+    .main_heading h2 {
+        font-size: 25px !important;
+    }
+    .add_text{
+        font-size: 14px !important;
+    }
+    .add_pera{
+        text-align: center;
+    }
+    .add_input{
+        width: 100%  !important; 
+    }
+    .dark_section {
+        width: 50% !important;
+    }
+    .reverse_contant{
+        flex-direction: column-reverse;
+    }
+    .rev_pera{
+        flex-direction: unset;
+    }
+    .rev_pera p{
+        padding-top: 0px !important;
+    }
+    .number_pera{
+        text-align: left !important;
+        font-size: 16px !important;
+    }
+    .label_pera{
+        font-size: 16px !important;
+    }
+    .index_img img {
+        height: 400px !important;
+        width: 100% !important;
+    }
+    .add_input {
+        width: 60% !important;
+        margin: 0 auto !important;
+    }
+    .wallet_body {
+        width: 92% !important;
+        margin: 0 auto !important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .dark_section {
+        width: 65% !important;
+    }
+    .number_pera {
+        padding-top: 16px !important;
+    }
+    .dark_section {
+        width: 100% !important;
+    }
+    .wallet_body {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+}
+
+@media screen and (max-width: 488px) {
+
+    /* INDEX */
+    .heading_slide p {
+        font-size: 10px !important;
+    }
+    .record {
+        font-size: 8px !important;
+    }
+    .heading_slide h4 {
+        font-size: 20px !important;
+    }
+    .btn_text a {
+        font-size: 8px !important;
+        padding: 8px 0 !important;
+    }
+    .btn_text a i {
+        font-size: 15px!important;
+        padding-right: 5px !important;
+    }
+    .icon_text{
+        font-size: 22px !important;
+    }
+    .heading_slide span ,.intro_box {
+        font-size: 12px!important;
+    }
+    .index_img img {
+        height: auto !important;
+        width: 100% !important;
+    }
+    .add_input {
+        width: 100% !important;
+        margin: 0 auto !important;
+    }
+    .btn_div div a ,.wallet_option ,.option_pera  {
+        font-size: 10px !important;
+    }
+  
+}
+
+@media screen and (max-width: 400px) {
+    .main_heading h2 {
+        font-size: 20px !important;
+    }
+
+    .form_btn a{
+        font-size: 16px !important;
+    }
+    .form_btn {
+        width: 100% !important;
+    }
+    .sub_btn {
+        width: 150px !important;
+    }
+    
+
+
+}
